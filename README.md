@@ -5,7 +5,7 @@
 ---
 ## What I do
 - 🚀 Software Team Lead of [Ungerdraguate Student Instrumentation Project VI (USIP VI) ](http://nsmn1.uh.edu/ebering/usip.html), a student led Balloon-borne Auroral Research group at the University of Houston.
-- 📘 Director of CodeRed at [CougarCS](https://cougarcs.com/)
+- 📘 Director of [CodeRed](https://github.com/UHCodeRED) at [CougarCS](https://cougarcs.com/)
 - 💻 CougarCS Infosec CTF Team
 ---
 ## How to reach me: 
