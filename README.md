@@ -14,4 +14,4 @@
 
 ### Let's Build Something Amazing!
 #### 👔 [LinkedIn](https://www.linkedin.com/in/hitarth-thanki)
-#### ✉️ [Ready to innovate together?](forgewith@hitarth.dev)
+#### ✉️ [Say Hi!](forgewith@hitarth.dev)
