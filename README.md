@@ -4,13 +4,13 @@
 
 ## What I do
 - 🎯 Scaling Houston's largest hackathon as Director @ [CodeRed](https://github.com/UHCodeRED) with my fellow Student Organizers
-- 🌱 Hackathon addict who loves the thrill of learning: React @ TAMUhack, Discord APIs @ HackSMU, Figma @ HackUTD. Next challenge: Full-stack with Next.js & FastAPI!
+- 🌱 Hackathon addict who loves the thrill of learning: React @ TAMUhack, Discord APIs @ HackSMU, Figma @ HackUTD. Next challenge: Full-stack with Next.js & Golang!
 
 ## Victories 🏆
 - Most Winningest project @ [TAMUhack 2024 with 4 awards](https://devpost.com/software/space-explorer-game) ($500+)
 - Won 2nd place at [Nsbe UH x Meta RNE Hackathon](url) ($50 Worth)
 - Attended 2 other hackathons ([HackSMU VI](https://devpost.com/software/rank-sinatra), [HackUTD X](https://devpost.com/software/earnnest))
-- Currently: Building for a 2-month hackathon + eyeing Rice Designathon & TAMUhack Spring '25
+- Currently: Building a personal project + eyeing Rice Designathon Spring '25
 
 ### Let's Build Something Amazing!
 #### 👔 [LinkedIn](https://www.linkedin.com/in/hitarth-thanki)
