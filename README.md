@@ -1,6 +1,5 @@
 ## About Me
 - 👋 Hi! I'm Hitarth, a __Senior CS Major @ University of Houston__, with a sweet spot for Software Development and Cybersecurity
-- 🚀 Building cool stuff at [hitarth.dev](https://hitarth.dev)!
 
 ## What I do
 - 🎯 Scaling Houston's largest hackathon as Director @ [CodeRed](https://github.com/UHCodeRED) with my fellow Student Organizers
