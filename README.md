@@ -9,8 +9,6 @@
 ## Victories 🏆
 - Most Winningest project @ [TAMUhack 2024 with 4 awards](https://devpost.com/software/space-explorer-game) ($500+)
 - Won 2nd place at [Nsbe UH x Meta RNE Hackathon](url) ($50 Worth)
-- Attended 2 other hackathons ([HackSMU VI](https://devpost.com/software/rank-sinatra), [HackUTD X](https://devpost.com/software/earnnest))
-- Currently: Working hard on Project Based Courses at Uni +Building personal projects + eyeing Rice Designathon Spring '25
 
 ### Let's Build Something Amazing!
 #### 👔 [LinkedIn](https://www.linkedin.com/in/hitarth-thanki)
