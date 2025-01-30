@@ -3,7 +3,7 @@
 
 ## What I do
 - 🎯 Scaling Houston's largest hackathon as Director @ [CodeRed](https://github.com/UHCodeRED) with my fellow Student Organizers
-- 🌱 Hackathon addict who loves the thrill of learning: React @ TAMUhack, Discord APIs @ HackSMU, Figma @ HackUTD. Next challenge: Full-stack with Next.js & Golang!
+- 🌱 Hackathon addict who loves the learning and building: React @ TAMUhack, Discord APIs @ HackSMU, Figma @ HackUTD. Next challenge: Full-stack with Next.js & Golang!
 
 ## Victories 🏆
 - Most Winningest project @ [TAMUhack 2024 with 4 awards](https://devpost.com/software/space-explorer-game) ($500+)
