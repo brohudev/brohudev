@@ -7,7 +7,8 @@
 
 ## Victories 🏆
 - Most Winningest project @ [TAMUhack 2024 with 4 awards](https://devpost.com/software/space-explorer-game) ($500+)
-- Won 2nd place at [Nsbe UH x Meta RNE Hackathon](url) ($50 Worth)
+- Won 2nd place at Nsbe UH x Meta RNE Hackathon ($50 Worth)
+- Won 3rd place at [QVIDTVM x Ion Innaugral Hackday Competiton](https://iondistrict.com/event/qvidtvm-x-the-ion-inaugural-hack-day-competition/) ($250)
 
 ### Let's Build Something Amazing!
 #### 👔 [LinkedIn](https://www.linkedin.com/in/hitarth-thanki)
