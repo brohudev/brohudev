@@ -1,5 +1,5 @@
 ## About Me
-👋 Hi! I'm Hitarth, a __Computer Science Student @ University of Houston__, with a sweet spot for Quite a lot of Hobbies (Space, Tech, Podcasts, and Reading)
+👋 Heyo! I'm Hitarth, a __Computer Science Student @ University of Houston__, with a sweet spot for Quite a lot of Hobbies (Space, Tech, Podcasts, and Reading)
 
 ## What I do
 - 🌱 Working on building my Startup, BestFit.
