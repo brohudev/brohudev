@@ -4,7 +4,7 @@
 ## What I do
 - 🌱 Working on building my Startup, BestFit.
 - 🛠️ I love to hack on stuff, especially at Hackathons! I have been to 10 hackathons and counting in the past 2 years.
-- 🪛 In my (sparse) free time I love to tinker with my Home Lab, and I am working on a project to simulate a bunch of satellites on it using Rust. (Please reach out with cool ideas!)
+- 🪛 In my (sparse) free time I love to tinker with my Home Lab, and I am working on a project to simulate a bunch of satellites on it using Zig. (Please reach out with cool ideas!)
 
 ## Achievements 🏆
 - Won 4 Awards @ [TAMUhack 2024 with 4 awards](https://devpost.com/software/space-explorer-game)
